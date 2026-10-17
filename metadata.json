@@ -1,0 +1,6 @@
+{
+  "name": "ZərQızıl ERP - Zərgərlik və Qızıl Satışı İdarəetmə Sistemi",
+  "description": "Qızıl və zərgərlik mağazaları üçün tam ERP sistemi: Canlı birja qiymətləri (əyarlar üzrə), xalis və ümumi çəki inventarı, barkodlaşdırma, POS satış və köhnə qızıl barteri, zərgər emalatxanası sifarişləri və maliyyə hesabatları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
